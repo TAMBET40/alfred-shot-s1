@@ -1,6 +1,7 @@
 # ALFRED SHOT S1
 
 **A one-player, turn-based night shift in a hand-drawn server room.**
+Made in Estonia 🇪🇪.
 
 You and a masked rival take turns choosing whether to aim at the other player
 or take a chance on yourself. Each six-round chamber contains a shuffled mix
